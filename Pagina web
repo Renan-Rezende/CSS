@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <nav>
+      <h1>CSGO</h1>
+    </nav>
+
+    <img
+      class="img1"
+      src="https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1641233427"
+      alt=""
+    />
+    <br />
+    <button>
+      <h1>Clique Aqui</h1>
+    </button>
+    <section>
+      <div class="sec sec1">
+        <img
+          class="img2"
+          src="https://pbs.twimg.com/media/EywzdF1WUAIoMKE.jpg"
+          alt=""
+        />
+      </div>
+      <div class="sec sec2">
+        <iframe
+          class="video"
+          src="https://www.youtube.com/embed/1LxAzh6wQ8Y"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write;
+                 encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </section>
+    <footer><h1>Email de contato: renanlr1.0@gmail.com</h1></footer>
+  </body>
+</html>
+
+
+
+
+
+
